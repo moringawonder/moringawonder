@@ -1,10 +1,6 @@
 ### Halo there 👋, yours truly @adamswonder
 </hr>
 <!--
-**adamswonder/adamswonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Art Ai
 - 🌱 I’m currently learning React, Ruby and Rails
 - 👯 I’m looking to collaborate on Python, Ruby Rails related projects
@@ -12,3 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @adamswill.i.am71002@gmail.com
 - ⚡ Fun fact: "Stewardesses" is the longest word that is typed with only the left hand
 -->
+**adamswonder/adamswonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

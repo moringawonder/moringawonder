@@ -2,7 +2,7 @@
 </hr>
 
 ## 📖 About me
-* 💻 I'm a Full stack web developer
+* 💻 A Full stack developer
 * 🔭 I’m currently working on Art Ai
 * 🌱 I’m currently learning React, Ruby and Rails
 * 👯 I’m looking to collaborate on Python, Ruby & Rails related projects

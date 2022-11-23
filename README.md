@@ -13,4 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![ReactJS](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
 ![Ruby](https://img.shields.io/badge/Ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)

@@ -1,4 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![animation](https://github.com/adamswonder/adamswonder/blob/output/github-grid-snake.svg)
 
 <h1 align="center">Ola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> ,Wonderboy here!</h1>
 </hr>

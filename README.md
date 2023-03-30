@@ -12,8 +12,9 @@
 * 📫 How to reach me: **adamswill.i.am71002@gmail.com**
 * ⚡ Fun fact? **"Stewardesses"** is the longest word that is typed with only the left hand
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![ReactJS](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![PHP](https://img.shields.io/badge/-Php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 ![Ruby](https://img.shields.io/badge/Ruby-grey?style=for-the-badge&logo=ruby&logoColor=white&labelColor=8E2DE2)
 ![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![ReactJS](https://img.shields.io/badge/ReactJs-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+![Angular](https://img.shields.io/badge/AngularJs-grey?style=for-the-badge&logo=angular&logoColor=white&labelColor=8E2DE2)
 ![Snake animation](https://github.com/adamswonder/adamswonder/blob/output/github-contribution-grid-snake.svg)

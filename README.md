@@ -5,9 +5,7 @@
 <!-- #<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamswonder&label=Profile%20views&color=0e75b6&style=flat" alt="adamswonder" /> </p> -->
 
 ## 📖 About me
-* 💻 A Full stack developer
-* 🔭 I’m currently working on [iTalanta's](https://github.com/italanta) open-source!
-* 🌱 I’m currently learning Angular and Firebase.
+* 💻 Engineer
 * 💬 Ask me about **Open source projects, Back-end, APIs and life interests 😄**
 * 📫 How to reach me: **adamswill.i.am71002@gmail.com**
 * ⚡ Fun fact? **"Stewardesses"** is the longest word that is typed with only the left hand

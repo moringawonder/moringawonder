@@ -5,8 +5,8 @@
 <!-- #<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamswonder&label=Profile%20views&color=0e75b6&style=flat" alt="adamswonder" /> </p> -->
 
 ## 📖 About me
-* 💻 Engineer
-* 💬 Ask me about **Open source projects, Back-end, APIs and life interests 😄**
+* 💻 Currently learning low-level programming
+* 💬 Ask me about **Open source projects, Back-end, APIs, and life interests 😄**
 * 📫 How to reach me: **adamswill.i.am71002@gmail.com**
 * ⚡ Fun fact? **"Stewardesses"** is the longest word that is typed with only the left hand
 
